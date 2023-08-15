@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0c9463f.css",
+    "main.js": "/static/js/main.27964e70.js",
+    "static/js/787.a160be48.chunk.js": "/static/js/787.a160be48.chunk.js",
+    "static/media/Screenshot 2023-05-31 114900.png": "/static/media/Screenshot 2023-05-31 114900.6117e77c7efbd33be9b5.png",
+    "static/media/Screenshot 2023-05-29 225502.png": "/static/media/Screenshot 2023-05-29 225502.96b9807968b9e2000a1f.png",
+    "static/media/Screenshot 2023-05-31 114948.png": "/static/media/Screenshot 2023-05-31 114948.b71d26dbb889f361514e.png",
+    "static/media/Screenshot 2023-05-31 115033.png": "/static/media/Screenshot 2023-05-31 115033.396a117efdf74d59d9a0.png",
+    "static/media/Screenshot 2023-05-31 115101.png": "/static/media/Screenshot 2023-05-31 115101.3a1df4c77d918d6a8a4c.png",
+    "static/media/Screenshot 2023-05-30 140423.png": "/static/media/Screenshot 2023-05-30 140423.e47ae1a0a113013d22cb.png",
+    "static/media/Screenshot 2023-05-29 172020.png": "/static/media/Screenshot 2023-05-29 172020.ea16ffde767b4084182f.png",
+    "static/media/Screenshot 2023-05-28 071732.png": "/static/media/Screenshot 2023-05-28 071732.4394bca3e065163f2cf0.png",
+    "static/media/Screenshot 2023-05-28 071658.png": "/static/media/Screenshot 2023-05-28 071658.0f5ce40b9d071937fbb8.png",
+    "index.html": "/index.html",
+    "main.e0c9463f.css.map": "/static/css/main.e0c9463f.css.map",
+    "main.27964e70.js.map": "/static/js/main.27964e70.js.map",
+    "787.a160be48.chunk.js.map": "/static/js/787.a160be48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0c9463f.css",
+    "static/js/main.27964e70.js"
+  ]
+}
